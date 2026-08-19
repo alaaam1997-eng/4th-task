@@ -467,9 +467,6 @@ h1 {
 
 .home-img {
     height: 55vh;
-    background-image: url(../img/e7c75b833c-f09fa794a4e1fbd04b1e.png);
-    background-size: cover;
-    background-position: 1px;
     box-shadow: 5px 5px #000;
     border: 4px solid black;
     transition: transform .3s;
